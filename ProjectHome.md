@@ -1,0 +1,1 @@
+This package offers an easy to use heap implementation with a conventional priority queue interface.
